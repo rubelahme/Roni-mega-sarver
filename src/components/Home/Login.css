@@ -1,0 +1,29 @@
+.Email {
+  display: inline;
+  font-size: 18px !important;
+  border-radius: 3px;
+  border: 2px solid #888888;
+  color: #555;
+  background-color: #fff;
+  width: 60%;
+}
+.mega1 {
+  cursor: pointer;
+}
+.submit {
+  text-transform: uppercase;
+  font-weight: bold;
+  width: 120px;
+  margin: auto auto 10px auto;
+  height: 45px;
+  background: #feb161;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+@media (max-width: 768px) {
+  .Email {
+    width: 95%;
+  }
+}

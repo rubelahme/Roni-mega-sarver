@@ -1,0 +1,59 @@
+.mega {
+  cursor: pointer;
+}
+.Password {
+  color: #0000ee;
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+.Policies {
+  color: #046aaf;
+  cursor: pointer;
+  font-size: 12px;
+}
+.Copyright {
+  color: #046aaf;
+  margin-top: 12px;
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+.logincopy {
+  color: #b7a690;
+  font-size: 18px;
+  letter-spacing: 0.2px;
+}
+.StartButton {
+  width: 40%;
+  background-color: #0492ff;
+  color: #fff;
+  font-size: 25px;
+  line-height: 30px;
+  padding: 3px;
+  letter-spacing: 1px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-weight: bold;
+  max-width: 245px;
+}
+.StartButton:hover {
+  width: 40%;
+  background-color: #0492ff;
+  color: #fff;
+  font-size: 25px;
+  line-height: 30px;
+  padding: 3px;
+  letter-spacing: 1px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-weight: bold;
+  max-width: 245px;
+}
+.Password:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+@media (max-width: 768px) {
+  .mega Img {
+    width: 100%;
+  }
+}

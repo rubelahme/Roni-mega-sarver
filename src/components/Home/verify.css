@@ -1,0 +1,59 @@
+.device {
+  background-color: #f8efce;
+  text-transform: uppercase;
+  font-weight: normal;
+  color: #b8af8e;
+  padding: 4px 0;
+}
+h4 {
+  color: #c75400;
+}
+h3 {
+  color: #2faeea;
+}
+.Enter {
+  color: #c75400;
+  font-size: 24px;
+  padding-top: 0px;
+}
+.code {
+  width: 40%;
+  border: 1px solid #e8e9e9;
+  height: 40px;
+  border-radius: 3px;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.submitCode {
+  color: #fff;
+  margin-top: 12px;
+  margin-bottom: 15px;
+  background-color: #f0ad4e;
+  border-color: #eea236;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+.submitCode:hover {
+  color: #fff;
+  background-color: #f0ad4e;
+  border-color: #eea236;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+
+@media (max-width: 768px) {
+  h3 {
+    font-size: 16px;
+  }
+  h4 {
+    font-size: 16px;
+  }
+  .Enter {
+    font-size: 18px;
+  }
+}
